@@ -10,4 +10,5 @@ public class ExamCenterApplication {
 		SpringApplication.run(ExamCenterApplication.class, args);
 	}
 
+	// test
 }
